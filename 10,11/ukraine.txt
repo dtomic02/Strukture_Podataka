@@ -1,0 +1,3 @@
+donetsk, 900000
+kharkiv, 1400000
+odesa, 1000000

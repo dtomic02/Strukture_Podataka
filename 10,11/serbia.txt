@@ -1,0 +1,3 @@
+beograd, 1344844
+novi sad, 277522
+kragujevac, 150000

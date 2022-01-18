@@ -1,0 +1,3 @@
+zagreb, 770000
+split, 160000
+zadar, 70000

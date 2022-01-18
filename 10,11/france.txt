@@ -1,0 +1,3 @@
+marseille, 863000
+toulouse, 480000
+paris, 2200000
